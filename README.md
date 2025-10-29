@@ -1,6 +1,6 @@
 # 🏦 Bank-Marketing-Term-Deposit-Prediction
 
-This project analyzes a dataset related to direct marketing campaigns (based on phone calls) of a Portuguese banking institution. The goal is to predict whether a client will subscribe to a term deposit (`y` variable).
+This project analyzes a dataset related to direct marketing campaigns (based on phone calls) of a Portuguese banking institution. The goal is to predict whether a client will subscribe to a term deposit (`y` variable).  
 
 ## Project Overview
 
@@ -24,7 +24,7 @@ The core of this project is to build and evaluate several machine learning model
 
 ## Data
 
-The dataset is from kaggle (LINK).
+The dataset is from [kaggle](https://www.kaggle.com/datasets/saranyaponnarasu/bank-marketing-term-deposits-classification/data).
 
 **Attributes:**
 * `age`: Age of the client (numeric)
